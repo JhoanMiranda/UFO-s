@@ -1,8 +1,8 @@
-// import the data from data.js
-//const tableData = data;
+//import the data from data.js
+const tableData = data;
 
 //reference the HTML table using d3
-//var tbody = d3.select("tbody");
+var tbody = d3.select("tbody");
 
 // Takes two numbers and adds them
 //function addition(a, b) {
